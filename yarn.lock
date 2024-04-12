@@ -2813,6 +2813,11 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
+three-dots@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/three-dots/-/three-dots-0.3.2.tgz#02ec1193d60d9cf4901cb3918b483459da0b3d8d"
+  integrity sha512-N7JMhoCX+4mhgGWy4Hqy4PZ27shKwLRvaADn3YsK9+bImK5U/xA/woCUavehoHGrkNG3yyAzwQ6UnuFH0/yLVQ==
+
 tinybench@^2.5.0:
   version "2.5.0"
   resolved "https://registry.npmjs.org/tinybench/-/tinybench-2.5.0.tgz"
